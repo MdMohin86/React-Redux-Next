@@ -1,0 +1,23 @@
+.app-container{
+    display: flex;
+}
+
+.content{
+    width: 80%;
+}
+
+.sidebar-height{
+    min-height: 60px;
+}
+
+.card-margin{
+    margin: 20px;
+}
+
+.form{
+    margin: 30px;
+}
+
+.hashtag{
+    margin: 0px 3px;
+}

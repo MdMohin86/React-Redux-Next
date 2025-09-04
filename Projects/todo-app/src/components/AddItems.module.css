@@ -1,0 +1,12 @@
+input {
+    text-align: left;
+    width: 100%;
+}
+
+.sBtn{
+    width: 80px;
+}
+
+.mRow{
+    margin: 10px;
+}

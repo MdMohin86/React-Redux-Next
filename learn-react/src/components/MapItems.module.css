@@ -1,0 +1,13 @@
+.listItem{
+    color: rgb(7, 44, 55);
+    /* background-color: rgb(82, 86, 88); */
+    text-align: left;
+    padding-left: 50px;
+    margin: 20px;
+    /* float: left; */
+}
+
+.sBtn{
+    float: right;
+    margin-right: 50px;
+}
